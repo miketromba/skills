@@ -7,13 +7,13 @@ A collection of open-source [Agent Skills](https://agentskills.io) for AI-powere
 Install any skill with a single command using the [skills CLI](https://skills.sh/docs/cli) — no setup required:
 
 ```bash
-npx skills add mtromba/skills/<skill-name>
+npx skills add miketromba/skills/<skill-name>
 ```
 
 Or install all skills at once:
 
 ```bash
-npx skills add mtromba/skills
+npx skills add miketromba/skills
 ```
 
 ## Available Skills
