@@ -4,15 +4,13 @@ A collection of open-source [Agent Skills](https://agentskills.io) for AI-powere
 
 ## Installation
 
-Install any skill with a single command using the [skills CLI](https://skills.sh/docs/cli) — no setup required:
+Install skills with a single command using the [skills CLI](https://skills.sh/docs/cli) — no setup required:
 
 ```bash
-npx skills add miketromba/skills/<skill-name>
-```
+# Install a specific skill
+npx skills add miketromba/skills --skill railway-cli
 
-Or install all skills at once:
-
-```bash
+# Install all skills
 npx skills add miketromba/skills
 ```
 
