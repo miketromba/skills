@@ -20,6 +20,7 @@ npx skills add miketromba/skills
 |-------|-------------|
 | [railway-cli](skills/railway-cli/) | Manage Railway cloud deployments via the Railway CLI — deploy, manage services, set variables, view logs, configure domains, add databases, and more. |
 | [bootstrap-ts-oss](skills/bootstrap-ts-oss/) | Scaffold a production-ready TypeScript npm package with Bun, tsup, Biome, Husky, GitHub Actions CI/CD, and dual ESM/CJS publishing. |
+| [legal-tos-privacy](skills/legal-tos-privacy/) | Create bulletproof Terms of Service and Privacy Policy documents for SaaS apps — audits your codebase, infers company info, and drafts ready-to-publish legal docs with minimal interaction. |
 
 ## What Are Agent Skills?
 
