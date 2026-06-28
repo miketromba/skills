@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Fix Loop"
+  short_description: "Orchestrate repeated review and fixes"
+  default_prompt: "Use $review-fix-loop to review and fix this change until no findings remain."
