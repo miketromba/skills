@@ -22,6 +22,7 @@ npx skills add miketromba/skills
 | [bootstrap-ts-oss](skills/bootstrap-ts-oss/) | Scaffold a production-ready TypeScript npm package with Bun, tsup, Biome, Husky, GitHub Actions CI/CD, and dual ESM/CJS publishing. |
 | [code-review](skills/code-review/) | Review code changes with Codex's standard review rubric and return structured actionable findings. |
 | [review-fix-loop](skills/review-fix-loop/) | Orchestrate iterative review and fix passes until no actionable findings remain. |
+| [partitioned-review-fix-loop](skills/partitioned-review-fix-loop/) | Split large change sets into exclusive lanes and run parallel P0/P1 review-fix loops through final integration. |
 | [legal-tos-privacy](skills/legal-tos-privacy/) | Create bulletproof Terms of Service and Privacy Policy documents for SaaS apps — audits your codebase, infers company info, and drafts ready-to-publish legal docs with minimal interaction. |
 | [calculator](skills/calculator/) | Perform precise mathematical calculations (add, subtract, multiply, divide) via a bundled CLI script — supports batch operations so the agent never does mental math. |
 

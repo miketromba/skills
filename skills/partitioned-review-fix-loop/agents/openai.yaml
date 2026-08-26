@@ -1,0 +1,4 @@
+interface:
+  display_name: "Partitioned Review Fix Loop"
+  short_description: "Parallel critical review-fix orchestration"
+  default_prompt: "Use $partitioned-review-fix-loop to partition this large change set and run parallel P0/P1 review-fix loops until every lane is clean."
